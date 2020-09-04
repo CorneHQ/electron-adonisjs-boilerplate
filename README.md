@@ -28,3 +28,7 @@ Or [download](https://github.com/CorneHQ/electron-adonisjs-boilerplate/archive/m
 Use the following links for making installers of your project
 - [Electron Packager](https://github.com/electron/electron-packager)
 - [Electron Docs](https://www.electronjs.org/docs/tutorial/application-distribution)
+
+## 📝 Todo's
+- [ ] Adding splash screen
+- [ ] Optimize startup time
