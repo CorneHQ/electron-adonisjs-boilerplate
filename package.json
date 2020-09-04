@@ -1,0 +1,22 @@
+{
+  "name": "electron-adonisjs-boilerplate",
+  "version": "1.0.0",
+  "description": "An AdonisJS boilerplate for Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorneHQ/electron-adonisjs-boilerplate.git"
+  },
+  "author": "Corné den Breejen <cornedev@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorneHQ/electron-adonisjs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/CorneHQ/electron-adonisjs-boilerplate#readme",
+  "dependencies": {
+    "electron": "^10.1.1"
+  }
+}
