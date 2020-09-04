@@ -11,7 +11,7 @@ Clone the repository
 ```sh
 git clone https://github.com/CorneHQ/electron-adonisjs-boilerplate.git
 ```
-Or [download]() directly as .zip
+Or [download](https://github.com/CorneHQ/electron-adonisjs-boilerplate/archive/master.zip) directly as .zip
 
 ### Installing dependencies
 1. Go to the directory of the project
